@@ -1,2 +1,2 @@
-# Spame
-Dengan bijan ya gans ini password dan usernamenya 
+# Spamer
+Gunakan dengan bijak
